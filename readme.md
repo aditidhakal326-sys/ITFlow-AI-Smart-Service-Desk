@@ -19,6 +19,20 @@ ITFlow AI uses a locally running large language model (LLM) to classify IT suppo
 - **Analytics Dashboard:** Displays ticket distribution, priorities, assignments, and resolution progress.
 - **AI Evaluation:** Tests classification on five predefined sample cases.
 
+## Application Screenshots
+
+### AI Ticket Classification
+
+![AI Ticket Classification](screenshots/ai-classification.png)
+
+### Analytics Dashboard
+
+![Analytics Dashboard](screenshots/analytics-dashboard.png)
+
+### Team Inbox
+
+![Team Inbox](screenshots/team-inbox.png)
+
 ## Technology Stack
 
 | Technology | Purpose |
