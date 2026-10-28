@@ -27,11 +27,11 @@ ITFlow AI uses a locally running large language model (LLM) to classify IT suppo
 
 ### Analytics Dashboard
 
-![Analytics Dashboard](screenshots/analytics-dashboard.png)
+![Analytics Dashboard](screenshots/analyticstab.png)
 
 ### Team Inbox
 
-![Team Inbox](screenshots/team-inbox.png)
+![Team Inbox](screenshots/teaminbox.png)
 
 ## Technology Stack
 
